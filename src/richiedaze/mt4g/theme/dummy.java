@@ -1,4 +1,4 @@
-package richiedaze.mt4g.theme;
+package natehoch96.mt4g.theme;
 
 import android.app.Activity;
 import android.os.Bundle;
